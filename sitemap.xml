@@ -6,8 +6,16 @@
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>https://firegems.eu/img/iphone-screen.png</image:loc>
-	<image:title>iphone%20screen</image:title>
+	<image:loc>https://firegems.eu/img/orange_ovale_7.10carats-300x300.png</image:loc>
+	<image:title>orange_ovale_7.10carats%20300x300</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://firegems.eu/img/orange_poire_3.25carats-300x300.png</image:loc>
+	<image:title>orange_poire_3.25carats%20300x300</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://firegems.eu/img/rose_poire_5.00carats-300x300.png</image:loc>
+	<image:title>placeholder%20image</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://firegems.eu/img/</image:loc>
