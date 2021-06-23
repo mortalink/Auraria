@@ -258,10 +258,24 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	height:300px;
 }
 .link-style{
-	font-size:40px;
+	font-size:60px;
+	font-family:Lato;
+	font-weight:300;
+	width:100%;
+	line-height:90px;
+	text-align:center;
+	text-decoration:none;
+	text-transform:capitalize;
+	font-style:italic;
+	letter-spacing:8px;
+	margin:20px 20px 20px 20px;
 }
 .h3-style{
 	width:100%;
+}
+.navbar-brand img{
+	width:60px;
+	height:60px;
 }
 
 /* = Colour
@@ -270,7 +284,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 /* Background colour styles */
 
 .bgc-burnt-orange{
-	background-color:#BC5500;
+	background-color:rgba(188,86,0,0.75);
 }
 
 /* Text colour styles */
@@ -285,10 +299,10 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 /* Link colour styles */
 
 .ltc-burnt-orange{
-	color:#BC5500!important;
+	color:rgba(188,86,0,0.75)!important;
 }
 .ltc-burnt-orange:hover{
-	color:#964400!important;
+	color:#964500!important;
 }
 
 /* Bloc image backgrounds */
@@ -387,6 +401,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 @media (max-width: 575px){
 	.footer-link{
 		text-align:center;
+	}
+	.link-style{
+		width:94.07%;
 	}
 	
 }
