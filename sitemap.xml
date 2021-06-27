@@ -2,9 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://firegems.eu</loc>
-	<lastmod>2021-06-23</lastmod>
+	<lastmod>2021-06-27</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://firegems.eu/img/DSC00692.jpg</image:loc>
+	<image:title>DSC00692</image:title>
+	</image:image>
 	<image:image>
 	<image:loc>https://firegems.eu/img/orange_ovale_7.10carats-300x300.png</image:loc>
 	<image:title>orange_ovale_7.10carats%20300x300</image:title>
@@ -16,6 +20,26 @@
 	<image:image>
 	<image:loc>https://firegems.eu/img/rose_poire_5.00carats-300x300.png</image:loc>
 	<image:title>placeholder%20image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://firegems.eu/img/DSC04364.jpg</image:loc>
+	<image:title>slide%201</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://firegems.eu/img/DSC04397-1@2x.jpg</image:loc>
+	<image:title>slide%202</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://firegems.eu/img/DSC05087@2x.jpg</image:loc>
+	<image:title>slide%203</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://firegems.eu/img/DSC05053.jpg</image:loc>
+	<image:title>DSC05053</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://firegems.eu/img/DSC00608@2x.jpg</image:loc>
+	<image:title>DSC00608@2x</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://firegems.eu/img/</image:loc>
