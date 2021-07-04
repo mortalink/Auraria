@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://firegems.eu</loc>
-	<lastmod>2021-06-27</lastmod>
+	<lastmod>2021-07-04</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -11,27 +11,23 @@
 	</image:image>
 	<image:image>
 	<image:loc>https://firegems.eu/img/orange_ovale_7.10carats-300x300.png</image:loc>
-	<image:title>orange_ovale_7.10carats%20300x300</image:title>
+	<image:title>orange_ovale_7.10carats 300x300</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://firegems.eu/img/orange_poire_3.25carats-300x300.png</image:loc>
-	<image:title>orange_poire_3.25carats%20300x300</image:title>
+	<image:title>orange_poire_3.25carats 300x300</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://firegems.eu/img/rose_poire_5.00carats-300x300.png</image:loc>
-	<image:title>placeholder%20image</image:title>
+	<image:title>placeholder image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://firegems.eu/img/DSC04364.jpg</image:loc>
-	<image:title>slide%201</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://firegems.eu/img/DSC04397-1@2x.jpg</image:loc>
-	<image:title>slide%202</image:title>
+	<image:loc>https://firegems.eu/img/DSC04397-1.jpg</image:loc>
+	<image:title>slide 1</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://firegems.eu/img/DSC05087@2x.jpg</image:loc>
-	<image:title>slide%203</image:title>
+	<image:title>slide 3</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://firegems.eu/img/DSC05053.jpg</image:loc>
@@ -40,6 +36,10 @@
 	<image:image>
 	<image:loc>https://firegems.eu/img/DSC00608@2x.jpg</image:loc>
 	<image:title>DSC00608@2x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://firegems.eu/img/DSC04991.jpg</image:loc>
+	<image:title>DSC04991</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://firegems.eu/img/</image:loc>
