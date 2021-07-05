@@ -48,6 +48,9 @@ a:hover{text-decoration: none; cursor:pointer;}
 
 /* Sizes */
 
+.bloc-lg{
+	padding:100px 20px;
+}
 .bloc-sm{
 	padding:20px;
 }
@@ -101,12 +104,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 	border-color:rgba(0,0,0,.3);
 }
 
-/* Row Margin Offsets */
-
-.voffset{
-	margin-top:30px;
-}
-
 
 /* = NavBar
 -------------------------------------------------------------- */
@@ -145,9 +142,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 /* = Bric adjustment margins
 -------------------------------------------------------------- */
 
-.mg-clear{
-	margin:0;
-}
 .mg-sm{
 	margin-top:10px;
 	margin-bottom:5px;
@@ -174,6 +168,9 @@ button{
 	outline: none!important;
 }
 
+.btn-rd{
+	border-radius: 40px;
+}
 
 /* = Icons
 -------------------------------------------------------------- */
@@ -253,8 +250,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	max-width:1140px;
 }
 .img-style{
-	width:200px;
-	height:200px;
+	width:250px;
+	height:250px;
 }
 .img-rose-poire-style{
 	width:250px;
@@ -295,12 +292,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	border-style:_popUpItemAction:;
 }
 .p-style{
-	font-size:18px;
 	width:100%;
 	height:100%;
 	font-family:Lato;
 	font-weight:300;
-	color:#000000!important;
+	color:#797979!important;
+	font-size:20px;
 }
 .h5-ouro-preto-style{
 	font-family:Lato;
@@ -309,7 +306,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .h2-ouro-preto-style{
 	font-family:Lato;
 	font-weight:300;
-	font-size:25px;
+	font-size:28px;
+	letter-spacing:10px;
+	color:#797979!important;
 }
 .p-bloc-1-style{
 	font-family:Lato;
@@ -318,10 +317,14 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .h4-style{
 	font-family:Lato;
 	font-weight:300;
+	letter-spacing:8px;
+	font-size:22px;
 }
 .h4-story-origins-style{
 	font-family:Lato;
 	font-weight:300;
+	letter-spacing:8px;
+	font-size:22px;
 }
 .p-3-style{
 	font-family:Lato;
@@ -334,6 +337,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .h4-bloc-1-style{
 	font-family:Lato;
 	font-weight:300;
+	letter-spacing:8px;
+	font-size:22px;
 }
 .text-span-style{
 	font-weight:bold;
@@ -350,14 +355,15 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-weight:300;
 	letter-spacing:12px;
 	line-height:40px;
+	font-size:28px;
 }
 .h2-bloc-4-style{
 	font-family:"Lato";
 	font-weight:300;
 }
 .img-dsc006-style{
-	width:1016px;
-	height:678px;
+	width:1200px;
+	height:720px;
 }
 
 /* = Colour
@@ -481,6 +487,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 		font-weight:300;
 	}
 	
+	/* MD Text Margin Offsets */
+	.mg-md-md{
+		margin-top:10px;
+		margin-bottom:20px;
+	}
+	
 }
 
 @media (max-width: 767px){
@@ -518,6 +530,11 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	.navbar-brand img{
 		width:50px;
 		height:50px;
+	}
+	
+	/* Mobile Row Margin Offsets */
+	.voffset-md-xs{
+		margin-top:50px;
 	}
 	
 }
