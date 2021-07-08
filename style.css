@@ -168,9 +168,6 @@ button{
 	outline: none!important;
 }
 
-.btn-rd{
-	border-radius: 40px;
-}
 
 /* = Icons
 -------------------------------------------------------------- */
@@ -274,7 +271,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .h3-style{
 	width:100%;
-	font-family:Lato;
+	font-family:"Lato";
 	font-weight:300;
 	font-size:18px;
 	line-height:25px;
@@ -297,7 +294,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-family:Lato;
 	font-weight:300;
 	color:#797979!important;
-	font-size:20px;
+	font-size:18px;
+	text-align:center;
 }
 .h5-ouro-preto-style{
 	font-family:Lato;
@@ -488,7 +486,11 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	
 	/* MD Text Margin Offsets */
-	.mg-md-md{
+	.mg-sm-md{
+		margin-top:10px;
+		margin-bottom:5px;
+	}
+		.mg-md-md{
 		margin-top:10px;
 		margin-bottom:20px;
 	}
@@ -530,11 +532,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	.navbar-brand img{
 		width:50px;
 		height:50px;
-	}
-	
-	/* Mobile Row Margin Offsets */
-	.voffset-md-xs{
-		margin-top:50px;
 	}
 	
 }
