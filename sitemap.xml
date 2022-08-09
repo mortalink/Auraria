@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-	<loc>https://auraria.eu</loc>
-	<lastmod>2021-07-08</lastmod>
+	<loc>https://auraria.fr</loc>
+	<lastmod>2022-08-09</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>https://auraria.eu/img/DSC00692@2x.jpg</image:loc>
+	<image:loc>https://auraria.fr/img/DSC00692@2x.jpg</image:loc>
 	<image:title>DSC00692@2x</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://auraria.eu/img/rose_poire_5.00carats-300x300.png</image:loc>
+	<image:loc>https://auraria.fr/img/rose_poire_5.00carats-300x300.png</image:loc>
 	<image:title>placeholder image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://auraria.eu/img/orange_poire_3.25carats-300x300.png</image:loc>
+	<image:loc>https://auraria.fr/img/orange_poire_3.25carats-300x300.png</image:loc>
 	<image:title>orange_poire_3.25carats 300x300</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://auraria.eu/img/orange_ovale_7.10carats-300x300.png</image:loc>
+	<image:loc>https://auraria.fr/img/orange_ovale_7.10carats-300x300.png</image:loc>
 	<image:title>orange_ovale_7.10carats 300x300</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://auraria.eu/img/DSC04364.jpg</image:loc>
+	<image:loc>https://auraria.fr/img/DSC04364.jpg</image:loc>
 	<image:title>slide 1</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://auraria.eu/img/DSC05087.jpg</image:loc>
+	<image:loc>https://auraria.fr/img/DSC05087.jpg</image:loc>
 	<image:title>slide 3</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://auraria.eu/img/DSC05053.jpg</image:loc>
+	<image:loc>https://auraria.fr/img/DSC05053.jpg</image:loc>
 	<image:title>DSC05053</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://auraria.eu/img/DSC00608@2x.jpg</image:loc>
+	<image:loc>https://auraria.fr/img/DSC00608@2x.jpg</image:loc>
 	<image:title>DSC00608@2x</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://auraria.eu/img/DSC04991.jpg</image:loc>
+	<image:loc>https://auraria.fr/img/DSC04991.jpg</image:loc>
 	<image:title>DSC04991</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://auraria.eu/img/DSC04265.jpg</image:loc>
+	<image:loc>https://auraria.fr/img/DSC04265.jpg</image:loc>
 	<image:title>DSC05070</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://auraria.eu/img/</image:loc>
+	<image:loc>https://auraria.fr/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://auraria.eu/img/</image:loc>
+	<image:loc>https://auraria.fr/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
